@@ -38,7 +38,7 @@
 
 ## Друзья
 
-[Подкасты by Nodeus](http://nodeus.podfm.ru/)
+[Подкасты by Nodeus](https://nodeus.podfm.ru/)
 
 ## Лицензия
 
