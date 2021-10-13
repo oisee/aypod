@@ -2,16 +2,15 @@
 
 Подкаст о музыке созданной для 8-ми разрядного компьютера ZX Spectrum
 
-
-<p align="left">
-  <img src="logo.png" width="200" height="200" alt="Project Logo">
-</p>
+![Project Logo](/logo.png)
 
 ## Авторы
 
- - Siril/4D
+ - oisee (Siril/4D)
 
-## Подкаст доступен на следующих площадках:
+(Особая благодарность Nodeus за лого подкаста)
+
+## Подкаст [будет] доступен на следующих площадках:
 
 - [Castbox](#)
 - [Apple]
